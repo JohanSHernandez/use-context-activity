@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Aceite",
+        "brand": "Apple",
+        "price": 10.00,
+        "imgURL": "/images/aceite.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Aceite",
+        "brand": "Apple",
+        "price": 15.00,
+        "imgURL": "/images/aceite.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Aceite",
+        "brand": "Apple",
+        "price": 10.00,
+        "imgURL": "/images/aceite.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Aceite",
+        "brand": "Apple",
+        "price": 10.00,
+        "imgURL": "/images/aceite.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Aceite",
+        "brand": "Apple",
+        "price": 10.00,
+        "imgURL": "/images/aceite.jpg"
+    }
+]
