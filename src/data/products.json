@@ -4,34 +4,34 @@
         "name": "Aceite",
         "brand": "Apple",
         "price": 10.00,
-        "imgURL": "/images/aceite.jpg"
+        "imgURL": "https://funat.co/wp-content/uploads/2021/07/aceite-de-coco-USDA.jpg"
     },
     {
         "id": 2,
         "name": "Aceite",
         "brand": "Apple",
         "price": 15.00,
-        "imgURL": "/images/aceite.jpg"
+        "imgURL": "https://funat.co/wp-content/uploads/2021/07/aceite-de-coco-USDA.jpg"
     },
     {
         "id": 3,
         "name": "Aceite",
         "brand": "Apple",
         "price": 10.00,
-        "imgURL": "/images/aceite.jpg"
+        "imgURL": "https://funat.co/wp-content/uploads/2021/07/aceite-de-coco-USDA.jpg"
     },
     {
         "id": 4,
         "name": "Aceite",
         "brand": "Apple",
         "price": 10.00,
-        "imgURL": "/images/aceite.jpg"
+        "imgURL": "https://funat.co/wp-content/uploads/2021/07/aceite-de-coco-USDA.jpg"
     },
     {
         "id": 5,
         "name": "Aceite",
         "brand": "Apple",
         "price": 10.00,
-        "imgURL": "/images/aceite.jpg"
+        "imgURL": "https://funat.co/wp-content/uploads/2021/07/aceite-de-coco-USDA.jpg"
     }
 ]
